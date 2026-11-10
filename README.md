@@ -14,9 +14,9 @@ Currently exploring **Go**, **Python** and **Svelte** through pet projects.
 - **[schedule-bot](https://github.com/Ah3ron/schedule-bot)** — Telegram schedule bot in Go
 
 ### 📊 GitHub stats
-![Ah3ron's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ah3ron)
-![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ah3ron)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ah3ron)
+![Ah3ron's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ah3ron&theme=dark)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ah3ron&theme=dark)
+
 
 ### ✍️ Currently
 Learning something new every day and turning it into code.
