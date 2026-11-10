@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Ah3ron 👋
 
-<!--
-**Ah3ron/Ah3ron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior developer who enjoys building things for the web and the terminal.
+Currently exploring **Go**, **Python** and **Svelte** through pet projects.
 
-Here are some ideas to get you started:
+### 🛠️ Tech stack
+`Go` `Python` `Svelte` `TypeScript` `JavaScript` `Linux` `Docker`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured projects
+- **[kuru-kuru](https://github.com/Ah3ron/kuru-kuru)** — small Svelte app (⭐ 2)
+- **[binary-clock](https://github.com/Ah3ron/binary-clock)** — binary clock in Go
+- **[cellular-automaton](https://github.com/Ah3ron/cellular-automaton)** — cellular automaton visualization in Svelte
+- **[task-flow](https://github.com/Ah3ron/task-flow)** — task workspace in TypeScript
+- **[schedule-bot](https://github.com/Ah3ron/schedule-bot)** — Telegram schedule bot in Go
+
+### 📊 GitHub stats
+![Ah3ron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ah3ron&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ah3ron&layout=compact)
+
+### ✍️ Currently
+Learning something new every day and turning it into code.
